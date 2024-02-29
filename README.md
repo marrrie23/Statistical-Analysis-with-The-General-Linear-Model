@@ -9,3 +9,5 @@ This repository contains the files related to Assignment A1. The assignment invo
 - MillerHadenData.csv: The data example from the textbook "Statistical Analysis with The General Linear Model" by Miller and Haden (2013), Chapter 11.
 - evaluators.csv: The data for Evaluators used for Experiment 4 in Schroeder, J. and Epley, N. (2015). The sound of intellect: Speech reveals a thoughtful mind, increasing a job candidate's appeal. Psychological Science, 26, 277--891.
 - ratings.csv: The data for Ratings used for Experiment 4 in Schroeder, J. and Epley, N. (2015). The sound of intellect: Speech reveals a thoughtful mind, increasing a job candidate's appeal. Psychological Science, 26, 277--891.
+- 
+### Note: All necessary libraries are already installed in the notebook.
