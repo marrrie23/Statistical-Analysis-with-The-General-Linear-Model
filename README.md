@@ -1,8 +1,8 @@
-# Assignment A1 (Analyzing Data)
+# Project A1 (Analyzing Data)
 
 
 ## Overview
-This repository contains the files related to Assignment A1. The assignment involves performing 3 tasks on a statistical analysis of playground data.
+This repository contains the files related to Project A1. The project involves performing 3 tasks on a statistical analysis of playground data.
 
 ## Files Included
 - Assignment_1_s4304594.ipynb: This Jupyter notebook contains the code for the assignment.
